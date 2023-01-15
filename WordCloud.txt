@@ -1,0 +1,12 @@
+How Does Artificial Intelligence Work?
+What Is AI?
+Less than a decade after helping the Allied forces win World War II by breaking the Nazi encryption machine Enigma, mathematician Alan Turing changed history a second time with a simple question: “Can machines think?” 
+
+Turing’s 1950 paper “Computing Machinery and Intelligence” and its subsequent Turing Test established the fundamental goal and vision of AI.   
+
+At its core, AI is the branch of computer science that aims to answer Turing’s question in the affirmative. It is the endeavor to replicate or simulate human intelligence in machines. The expansive goal of AI has given rise to many questions and debates. So much so that no singular definition of the field is universally accepted.Defining AI
+The major limitation in defining AI as simply “building machines that are intelligent” is that it doesn't actually explain what AI is and what makes a machine intelligent. AI is an interdisciplinary science with multiple approaches, but advancements in machine learning and deep learning are creating a paradigm shift in virtually every sector of the tech industry.
+
+However, various new tests have been proposed recently that have been largely well received, including a 2019 research paper entitled “On the Measure of Intelligence.” In the paper, veteran deep learning researcher and Google engineer François Chollet argues that intelligence is the “rate at which a learner turns its experience and priors into new skills at valuable tasks that involve uncertainty and adaptation.” In other words: The most intelligent systems are able to take just a small amount of experience and go on to guess what would be the outcome in many varied situations.
+
+Meanwhile, in their book Artificial Intelligence: A Modern Approach, authors Stuart Russell and Peter Norvig approach the concept of AI by unifying their work around the theme of intelligent agents in machines. With this in mind, AI is “the study of agents that receive percepts from the environment and perform actions.”
